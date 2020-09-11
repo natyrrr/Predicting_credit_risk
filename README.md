@@ -26,7 +26,7 @@ Which model had the best geometric mean score?
 3.Calculate the confusion matrix from sklearn.metrics.
 4.Print the imbalanced classification report from imblearn.metrics.
 
-## Ensembling Learning
+## Ensemble Learning
 
 ### QUESTIONS TO BE ANSWERED
 Which model had the best balanced accuracy score?
