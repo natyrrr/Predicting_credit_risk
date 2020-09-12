@@ -53,11 +53,11 @@ Which model had the best balanced accuracy score?
 
 Which model had the best recall score? 
 
-#### **SMOTE had the same mean recall score with an average recall score of .87 **
+#### *Both Naive random oversampling and SMOTE had the same mean recall score with high risk being .63 and low risk being .69.*
 
 Which model had the best geometric mean score?
 
-#### **Naive and SMOTE both had the best score with .66 mean score.**
+**Naive and SMOTE both had the best score with .66 mean score.**
 
 ### ENSEMBLE LEARNING:
 
